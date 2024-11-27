@@ -10,9 +10,8 @@
 - Data Analysis & Automation  
 - Open-source Contributions  
 
-📫 Let's connect:
-            Gmail: venkatesanvkt11@gmail.com
-            LinkedIn : id https://www.linkedin.com/in/venkatesan1104/
+📫 Reach me at: venkatesanvkt11@gmail.com
+🔗 Connect with me on LinkedIn: Venkatesan
 
 Feel free to let me know if you want any tweaks! 😊
 
