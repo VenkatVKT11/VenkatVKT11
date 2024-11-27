@@ -10,10 +10,6 @@
 - Data Analysis & Automation  
 - Open-source Contributions  
 
-📫 Reach me at: venkatesanvkt11@gmail.com
-🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/venkatesan1104/
-
-Feel free to let me know if you want any tweaks! 😊
 
 <!---
 VenkatVKT11/VenkatVKT11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
