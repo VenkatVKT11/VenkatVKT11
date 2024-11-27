@@ -11,7 +11,7 @@
 - Open-source Contributions  
 
 📫 Reach me at: venkatesanvkt11@gmail.com
-🔗 Connect with me on LinkedIn: Venkatesan
+🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/venkatesan1104/
 
 Feel free to let me know if you want any tweaks! 😊
 
