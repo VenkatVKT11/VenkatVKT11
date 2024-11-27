@@ -12,7 +12,7 @@
 
 📫 Let's connect:
             Gmail: venkatesanvkt11@gmail.com
-            LinkedIn id https://www.linkedin.com/in/venkatesan1104/
+            LinkedIn : id https://www.linkedin.com/in/venkatesan1104/
 
 Feel free to let me know if you want any tweaks! 😊
 
