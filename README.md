@@ -7,7 +7,7 @@
 - **Smart Attendance System**: Face recognition with email integration powered by Deep Learning.
 - ****Adventure-Works-Power-BI**
 
-RESUME LINK : https://github.com/VenkatVKT11/RESUME/blob/main/Venkatesan%20G_(Data%20Analyst).pdf
+RESUME LINK : https://github.com/VenkatVKT11/VenkatVKT11/blob/main/Venkatesan%20G_(Data%20Analyst).pdf
 
 
 <!---
