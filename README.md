@@ -4,11 +4,8 @@
 💡 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Python Development**  
 ### Projects 🚀  
 - **Generative Smart Response System**: Addressing suspicious transactions using RAG Architecture and LLM.  
-- **Smart Attendance System**: Face recognition with email integration powered by Deep Learning.  
-### Interests 🌟  
-- AI/ML Development  
-- Data Analysis & Automation  
-- Open-source Contributions  
+- **Smart Attendance System**: Face recognition with email integration powered by Deep Learning.
+- ****Adventure-Works-Power-BI**
 
 
 <!---
